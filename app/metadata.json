@@ -1,0 +1,8 @@
+
+{
+  "name": "GVA Data Architect",
+  "description": "An interactive analyzer for a specialized Gun Violence Archive web scraper, including automated data extraction and AI-powered research grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
